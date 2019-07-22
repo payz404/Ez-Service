@@ -5,7 +5,7 @@ $pkg update -y && pkg upgrade
 
 $pkg install git
 
-$git clone https://github.com/Ez-Service
+$git clone https://github.com/payz404/Ez-Service
 
 $pkg install php
 
