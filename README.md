@@ -9,9 +9,11 @@ $git clone https://github.com/payz404/Ez-Service
 
 $pkg install php
 
-$unzip Ez-Service.zip
-
 $cd Ez-Service
+
+$unzip ez-service.zip
+
+$cd ez-service
 
 $php cc.php
 
